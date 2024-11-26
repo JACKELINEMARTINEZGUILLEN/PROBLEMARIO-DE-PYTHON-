@@ -1,3 +1,5 @@
+#CALCULO DIFERENCIAL Y MATEMATICAS 
+
 #Derivadas simbólicas: Diseña una función que acepte una expresión 
 #algebraica (por ejemplo, 3x^2 + 2x) y calcule su derivada simbólica.
 
