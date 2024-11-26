@@ -1,5 +1,6 @@
 #Factorización optimizada: Diseña una función para descomponer un 
 #número en sus factores primos de forma eficiente.
+from collections import defaultdict
 
 def factorizacion_prima(n):
     factores = defaultdict(int)
