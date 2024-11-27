@@ -1,3 +1,4 @@
+#ALGEBRA Y ECUACIONES
 #Resolución de sistemas lineales: Implementa una función que resuelva 
 #un sistema de ecuaciones lineales usando el método de eliminación de 
 #Gauss.
