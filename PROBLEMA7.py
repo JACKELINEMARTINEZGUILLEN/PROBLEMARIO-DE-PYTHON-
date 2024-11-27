@@ -7,9 +7,9 @@ import sympy as sp
 
 def derivada_simbolica(expr):
 
-x = sp.symbols('x')
+    x = sp.symbols('x')
 
-expr_sym = sp.sympify(expr)
+    expr_sym = sp.sympify(expr)
 
-derivada = sp.diff(expr_sym, x)
+    derivada = sp.diff(expr_sym, x)
     return derivada
