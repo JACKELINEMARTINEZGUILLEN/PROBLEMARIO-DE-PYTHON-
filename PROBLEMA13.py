@@ -1,5 +1,6 @@
 # Autovalores y autovectores: Escribe un programa para calcular los 
 #autovalores de una matriz 2x2.
+import numpy as np
 
 
 def autovalores_autovectores(A):
